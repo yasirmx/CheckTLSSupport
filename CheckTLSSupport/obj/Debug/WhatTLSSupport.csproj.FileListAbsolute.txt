@@ -1,0 +1,5 @@
+C:\Users\mauleear\Documents\WhatTLSSupport\WhatTLSSupport\obj\Debug\WhatTLSSupport.csprojResolveAssemblyReference.cache
+C:\Users\mauleear\Documents\WhatTLSSupport\WhatTLSSupport\bin\Debug\WhatTLSSupport.exe
+C:\Users\mauleear\Documents\WhatTLSSupport\WhatTLSSupport\bin\Debug\WhatTLSSupport.pdb
+C:\Users\mauleear\Documents\WhatTLSSupport\WhatTLSSupport\obj\Debug\WhatTLSSupport.exe
+C:\Users\mauleear\Documents\WhatTLSSupport\WhatTLSSupport\obj\Debug\WhatTLSSupport.pdb

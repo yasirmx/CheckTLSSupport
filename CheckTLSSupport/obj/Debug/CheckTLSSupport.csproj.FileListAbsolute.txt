@@ -1,0 +1,4 @@
+C:\Users\mauleear\Documents\WhatTLSSupport\CheckTLSSupport\obj\Debug\WhatTLSSupport.exe
+C:\Users\mauleear\Documents\WhatTLSSupport\CheckTLSSupport\obj\Debug\WhatTLSSupport.pdb
+C:\Users\mauleear\Documents\WhatTLSSupport\CheckTLSSupport\bin\Debug\WhatTLSSupport.exe
+C:\Users\mauleear\Documents\WhatTLSSupport\CheckTLSSupport\bin\Debug\WhatTLSSupport.pdb
